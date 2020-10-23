@@ -17,7 +17,7 @@ institutionId
 stockPeriodId
 
 Database_Type:
-PSOTGRESQL
+POSTGRESQL
 
 Query_Version:
 V1
