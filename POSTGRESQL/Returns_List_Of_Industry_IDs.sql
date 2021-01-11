@@ -22,7 +22,7 @@ Query_Added_Date:
 DatasetKey:
 40
 
-The following sample queryreturns a list of SNL Industry IDs in Xpressfeed
+The following sample query returns a list of SNL Industry IDs in Xpressfeed
 
 ***********************************************************************************************/
 
